@@ -40,8 +40,7 @@ The notebook installs/imports its required Python libraries, including pandas, N
 
 - `Netflix_Movies_TV_Shows_Clustering.ipynb` — project notebook.
 
-The presentation script is intentionally not included in this repository.
 
 ## Author
 
-Varsha S — Individual capstone project.
+Varsha S
