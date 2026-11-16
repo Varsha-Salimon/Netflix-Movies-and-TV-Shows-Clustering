@@ -38,7 +38,7 @@ Required libraries are imported/installed in the notebook, including pandas, Num
 
 ## Files
 
-- `Netflix_Movies_TV_Shows_Clustering_Submission_Review.ipynb` — colab notebook.
+- `Netflix_Movies_TV_Shows_Clustering.ipynb` — colab notebook.
 
 ## Author
 
