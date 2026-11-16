@@ -38,9 +38,8 @@ Required libraries are imported/installed in the notebook, including pandas, Num
 
 ## Files
 
-- `Netflix_Movies_TV_Shows_Clustering_Submission_Review.ipynb` — reviewed notebook.
-- `Netflix_Clustering_20_Minute_Presentation_Script.md` — presentation script.
+- `Netflix_Movies_TV_Shows_Clustering_Submission_Review.ipynb` — colab notebook.
 
 ## Author
 
-Varsha S — Individual capstone project.
+Varsha S
